@@ -4,4 +4,4 @@
 
 ### 社群讨论
 
-[Telegram 中文群]、[Telegram English]、[微信群]()
+[Telegram 中文群](https://t.me/juggleim_zh)、[Telegram English](https://t.me/juggleim_en)、[微信群]()
