@@ -9,3 +9,13 @@ IM 即时通讯是日常工作生活必备的工具之一，我们每天都被�
 [Telegram 中文群](https://t.me/juggleim_zh)、[Telegram English](https://t.me/juggleim_en)、[添加好友加入微信群](https://downloads.juggleim.com/xiaoshan.jpg)
 
 _备注：由于微信群二维码有时间限制，加入微信讨论可优先加 **小山** 微信好友，由 Ta 邀请进群组_
+
+### 下载 Demo
+
+> JuggleChat iOS: [https://testflight.apple.com/join/XucKbQ54](https://testflight.apple.com/join/XucKbQ54)
+
+> JuggleChat Android: 敬请期待
+
+> JuggleChat Web: [https://im.jugglechat.com/](https://im.jugglechat.com/)
+
+> JuggleLive Web: [https://live.jugglechat.com/](https://live.jugglechat.com/)
