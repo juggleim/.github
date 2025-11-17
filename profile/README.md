@@ -16,7 +16,7 @@ JuggleIM 提供提供的产品主要包含两部分：
 
 > 2、开箱即用的 `App` 应用 `JuggleChat`： `JuggleChat` 是基于 `JuggleIM SDK` 构建的应用，可开发者提供应用源码，便于二次开发，重点：**二开源码**、**快速上线**
 
-#### JuggleIM SDK{#sdk}
+#### JuggleIM SDK
 
 **SDK 产品文档**
 
@@ -24,9 +24,9 @@ JuggleIM 提供提供的产品主要包含两部分：
 
 **SDK 产品功能**
 
-[](./assets/SDK.png)
+<img width="1234" height="606" alt="SDK" src="https://github.com/user-attachments/assets/64cc4d00-4a69-4f4e-8975-762bc03b6b71" />
 
-#### JuggleChat{#chat}
+#### JuggleChat
 
 **体验 JuggleChat**
 
@@ -34,44 +34,45 @@ JuggleIM 提供提供的产品主要包含两部分：
 
 **登录注册**
 
-[](./assets/CHAT_LOGIN.png)
+<img width="2468" height="1212" alt="CHAT_LOGIN" src="https://github.com/user-attachments/assets/92094f88-8d23-4792-b6cc-4da97c3e3b7b" />
 
 **产品主页**
 
-[](./assets/CHAT_TAB.png)
+<img width="2468" height="1212" alt="CHAT_TAB" src="https://github.com/user-attachments/assets/9d4e1f93-4744-41e0-9e34-c70c32a00be7" />
 
 **会话列表**
 
-[](./assets/CHAT_CHAT.png)
+<img width="2468" height="1212" alt="CHAT_CHAT" src="https://github.com/user-attachments/assets/a59eebae-fb1e-45a3-80bb-ecd347df8906" />
 
 **消息页面 1**
 
-[](./assets/CHAT_MSG_1.png)
+<img width="2468" height="1212" alt="CHAT_MSG_1" src="https://github.com/user-attachments/assets/0432e193-9ee0-45e1-9997-080f68c0be00" />
+
 
 **消息页面 2**
 
-[](./assets/CHAT_MSG_2.png)
+<img width="2468" height="1212" alt="CHAT_MSG_2" src="https://github.com/user-attachments/assets/2da46891-a39c-4d04-b147-df956ed11723" />
 
 **群组设置**
 
-[](./assets/CHAT_GROUP_SETTING.png)
+<img width="2468" height="1212" alt="CHAT_GROUP_SETTING" src="https://github.com/user-attachments/assets/ac9346a7-b5f4-48e1-9186-e03f50bf757b" />
 
 **音视频通话**
 
-[](./assets/CHAT_RTC.png)
+<img width="2468" height="1212" alt="CHAT_RTC" src="https://github.com/user-attachments/assets/1a768558-f769-4cc9-9c59-317c6767df11" />
 
 **朋友圈**
 
-[](./assets/CHAT_MOMENT.png)
+<img width="2468" height="1212" alt="CHAT_MOMENT" src="https://github.com/user-attachments/assets/c6da465f-5afa-42c7-98bb-04307f38f19a" />
 
 **个人设置**
 
-[](./assets/CHAT_SETTING.png)
+<img width="2468" height="1212" alt="CHAT_SETTING" src="https://github.com/user-attachments/assets/6cfbbf79-344a-4f98-b29b-17dc96315ccf" />
 
 **PC/Web**
 
-[](./assets/CHAT_PC.png)
+<img width="2468" height="1614" alt="CHAT_PC" src="https://github.com/user-attachments/assets/5c5ad075-b91c-49ac-afea-8e0bac55910b" />
 
 **管理后台**
 
-[](./assets/CHAT_ADMIN.png)
+<img width="2468" height="644" alt="CHAT_ADMIN" src="https://github.com/user-attachments/assets/49316494-51d9-4b6d-84e0-1525d6090f42" />
