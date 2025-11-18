@@ -24,7 +24,8 @@ JuggleIM 提供提供的产品主要包含两部分：
 
 **SDK 产品功能**
 
-<img width="1234" height="606" alt="SDK" src="https://github.com/user-attachments/assets/64cc4d00-4a69-4f4e-8975-762bc03b6b71" />
+<a href="https://juggle.im/docs/guide/intro/" target="_blank"><img width="2468" height="1212" alt="SDK" src="https://github.com/user-attachments/assets/8eb96c87-5ebf-4dfa-b893-b68495bbda76" /></a>
+
 
 #### JuggleChat
 
