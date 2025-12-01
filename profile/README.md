@@ -29,9 +29,9 @@ JuggleIM 提供提供的产品主要包含两部分：
 
 > 请移步社群获取应用下载链接 [Telegram 中文群](https://t.me/juggleim_zh)
 
-**消息页面**
+**产品展示**
 
-更多产品截图，请移步查看：[https://juggle.im/product](https://juggle.im/product/#showcase)
+更多产品展示截图，请移步查看：[https://juggle.im/product](https://juggle.im/product/#showcase)
 
 <a href="https://juggle.im/product/#showcase" target="_blank">
   <img width="2468" height="1212" alt="CHAT_MSG_1" src="https://github.com/user-attachments/assets/0432e193-9ee0-45e1-9997-080f68c0be00" />
