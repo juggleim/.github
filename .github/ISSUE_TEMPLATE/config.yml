@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+contact_links:
+  - name: JuggleIM documentation
+    url: https://www.juggle.im/docs/guide/intro/
+    about: Read the product, deployment, SDK, and server API documentation before opening an issue.
+  - name: Telegram Chinese community
+    url: https://t.me/juggleim_zh
+    about: Ask Chinese-language integration and usage questions in the community.
+  - name: Security vulnerability
+    url: https://github.com/juggleim/im-server/security/advisories/new
+    about: Privately report a vulnerability affecting the core JuggleIM server. For another repository, use its Security tab.
+

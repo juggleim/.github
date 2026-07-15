@@ -27,3 +27,7 @@
 ## 维护说明
 
 GitHub 会将 [`profile/README.md`](./profile/README.md) 渲染到 JuggleIM 组织首页。更新产品描述、项目链接或行动引导时，请同步维护英文版和 [`profile/README.zh-CN.md`](./profile/README.zh-CN.md) 中文版。
+
+## 组织级社区默认文件
+
+本仓库还为未单独定义社区文件的 JuggleIM 仓库提供默认的[贡献指南](./CONTRIBUTING.md)、[行为准则](./CODE_OF_CONDUCT.md)、[安全策略](./SECURITY.md)、[支持说明](./SUPPORT.md)、[Issue 表单](./.github/ISSUE_TEMPLATE)和 [Pull Request 模板](./.github/PULL_REQUEST_TEMPLATE.md)。

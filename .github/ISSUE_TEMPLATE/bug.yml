@@ -1,0 +1,96 @@
+name: Bug report
+description: Report a reproducible problem in a JuggleIM server, SDK, app, or tool.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve JuggleIM. Search existing issues first and remove all credentials, app secrets, private messages, tokens, and personal data before submitting.
+
+        Security vulnerabilities must be reported privately according to the repository's Security Policy, not through this form.
+
+  - type: input
+    id: component
+    attributes:
+      label: Repository or component
+      description: Which JuggleIM repository, server component, SDK, application, or tool is affected?
+      placeholder: e.g. im-server, imsdk-android, jugglechat-web
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Provide the release version, package version, or commit SHA.
+      placeholder: e.g. v1.8.14 or commit 0123abc
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Include relevant OS, runtime, database, deployment mode, device, browser, or client platform details.
+      placeholder: |
+        Server OS: Ubuntu 24.04
+        Deployment: Docker Compose
+        Database: MySQL 8.0
+        Client: Android 15 / SDK 1.x
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Provide the smallest reliable sequence that reproduces the problem.
+      placeholder: |
+        1. Configure ...
+        2. Connect ...
+        3. Send ...
+        4. Observe ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What should have happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: What happened instead? Include exact errors when possible.
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs, screenshots, or minimal reproduction
+      description: Drag files here or link a minimal repository. Redact secrets, message content, tokens, user data, domains, and public IP addresses.
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Include frequency, regression information, workarounds, or other relevant details.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission checklist
+      options:
+        - label: I searched existing issues and did not find a duplicate.
+          required: true
+        - label: I tested with a current release or current default branch when possible.
+          required: true
+        - label: I removed credentials, app secrets, tokens, private message content, and personal data.
+          required: true
+        - label: This is not a security vulnerability.
+          required: true

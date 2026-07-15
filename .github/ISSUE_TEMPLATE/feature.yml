@@ -1,0 +1,65 @@
+name: Feature request
+description: Propose an improvement to a JuggleIM server, SDK, app, API, or developer workflow.
+title: "[Feature]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for sharing an idea. Describe the user problem and desired outcome before proposing implementation details. Search existing issues first to avoid duplicates.
+
+  - type: input
+    id: component
+    attributes:
+      label: Repository or component
+      description: Which JuggleIM repository, SDK, application, API, or tool should change?
+      placeholder: e.g. im-server, imsdk-ios, server REST API
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or use case
+      description: What are you trying to build or accomplish, and what limitation are you encountering?
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior
+      description: Describe the expected developer or user experience. API sketches and examples are welcome.
+    validations:
+      required: true
+
+  - type: textarea
+    id: scenarios
+    attributes:
+      label: Affected scenarios and platforms
+      description: Identify relevant chat types, deployment modes, SDK platforms, scale requirements, or compatibility constraints.
+      placeholder: Private chat, groups, chatrooms, Android, iOS, Web, self-hosted cluster, etc.
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: What workarounds or alternative designs have you tried?
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add diagrams, screenshots, related standards, example projects, or links that clarify the request.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission checklist
+      options:
+        - label: I searched existing issues and did not find the same request.
+          required: true
+        - label: I described the user problem and expected outcome.
+          required: true
+        - label: I removed credentials, app secrets, tokens, private message content, and personal data.
+          required: true
+

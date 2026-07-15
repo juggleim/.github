@@ -27,3 +27,7 @@ This repository maintains the public [JuggleIM organization profile](./profile/R
 ## Editing the profile
 
 GitHub renders [`profile/README.md`](./profile/README.md) on the JuggleIM organization page. Keep the English version and [`profile/README.zh-CN.md`](./profile/README.zh-CN.md) aligned when updating product claims, project links, or calls to action.
+
+## Organization-wide community defaults
+
+This repository also provides the default [contribution guide](./CONTRIBUTING.md), [Code of Conduct](./CODE_OF_CONDUCT.md), [Security Policy](./SECURITY.md), [support guide](./SUPPORT.md), [issue forms](./.github/ISSUE_TEMPLATE), and [pull request template](./.github/PULL_REQUEST_TEMPLATE.md) for JuggleIM repositories that do not define their own versions.
