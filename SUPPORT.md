@@ -14,7 +14,7 @@ Start with these resources:
 
 ## Integration and usage questions
 
-Search the target repository's existing issues before opening a new question. When asking for help, identify the repository, version, platform, deployment mode, database, and what you have already tried.
+Search [GitHub Discussions](https://github.com/juggleim/im-server/discussions) before opening a new question. When asking for help, identify the repository, version, platform, deployment mode, database, and what you have already tried.
 
 The [Telegram Chinese community](https://t.me/juggleim_zh) is available for Chinese-language integration discussion.
 
@@ -35,4 +35,3 @@ Never disclose a vulnerability publicly. Follow the [Security Policy](./SECURITY
 ## Commercial and deployment inquiries
 
 For managed cloud, private deployment, licensing, or commercial support, use the contact channel on the [JuggleIM website](https://www.juggle.im/).
-

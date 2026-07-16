@@ -22,7 +22,7 @@
 - **[查看完整中文组织主页](./profile/README.zh-CN.md)**
 - **[为核心 im-server 项目点亮 Star](https://github.com/juggleim/im-server)**
 - [官网](https://www.juggle.im/) · [开发文档](https://www.juggle.im/docs/guide/intro/) · [快速部署](https://www.juggle.im/docs/guide/deploy/quickdeploy/)
-- [Telegram 中文社区](https://t.me/juggleim_zh) · [GitHub Issues](https://github.com/juggleim/im-server/issues)
+- [GitHub Discussions](https://github.com/juggleim/im-server/discussions) · [Telegram 中文社区](https://t.me/juggleim_zh) · [GitHub Issues](https://github.com/juggleim/im-server/issues)
 
 ## 维护说明
 

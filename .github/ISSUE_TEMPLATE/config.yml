@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: GitHub Discussions
+    url: https://github.com/juggleim/im-server/discussions
+    about: Ask integration questions, discuss ideas, and share projects with the JuggleIM community.
   - name: JuggleIM documentation
     url: https://www.juggle.im/docs/guide/intro/
     about: Read the product, deployment, SDK, and server API documentation before opening an issue.
@@ -9,4 +12,3 @@ contact_links:
   - name: Security vulnerability
     url: https://github.com/juggleim/im-server/security/advisories/new
     about: Privately report a vulnerability affecting the core JuggleIM server. For another repository, use its Security tab.
-

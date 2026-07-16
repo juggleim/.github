@@ -22,7 +22,7 @@ This repository maintains the public [JuggleIM organization profile](./profile/R
 - **[Explore the full organization profile](./profile/README.md)**
 - **[Star the core im-server project](https://github.com/juggleim/im-server)**
 - [Website](https://www.juggle.im/) · [Documentation](https://www.juggle.im/docs/guide/intro/) · [Quick Deploy](https://www.juggle.im/docs/guide/deploy/quickdeploy/)
-- [Telegram Chinese community](https://t.me/juggleim_zh) · [GitHub Issues](https://github.com/juggleim/im-server/issues)
+- [GitHub Discussions](https://github.com/juggleim/im-server/discussions) · [Telegram Chinese community](https://t.me/juggleim_zh) · [GitHub Issues](https://github.com/juggleim/im-server/issues)
 
 ## Editing the profile
 

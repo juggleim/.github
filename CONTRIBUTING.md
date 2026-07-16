@@ -82,8 +82,8 @@ By contributing, you agree that your contribution may be distributed under the t
 ## Getting help
 
 - [JuggleIM documentation](https://www.juggle.im/docs/guide/intro/)
+- [GitHub Discussions](https://github.com/juggleim/im-server/discussions) for questions, ideas, and project showcases
 - [JuggleIM website](https://www.juggle.im/)
 - [Telegram Chinese community](https://t.me/juggleim_zh)
 
 For questions about a particular repository, use that repository's support channels or issue tracker.
-

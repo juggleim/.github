@@ -25,7 +25,7 @@
     <a href="https://www.juggle.im/"><strong>Website</strong></a> ·
     <a href="https://www.juggle.im/docs/guide/intro/"><strong>Documentation</strong></a> ·
     <a href="https://www.juggle.im/docs/guide/deploy/quickdeploy/"><strong>Quick Deploy</strong></a> ·
-    <a href="https://github.com/juggleim/im-server/issues"><strong>Issues</strong></a> ·
+    <a href="https://github.com/juggleim/im-server/discussions"><strong>Discussions</strong></a> ·
     <a href="https://t.me/juggleim_zh"><strong>Community</strong></a>
   </p>
 </div>
@@ -105,6 +105,7 @@ Explore the [product overview](https://www.juggle.im/docs/guide/intro/), [SDK do
 Great open-source messaging infrastructure is built in the open. You can help by:
 
 - ⭐ Starring [im-server](https://github.com/juggleim/im-server) so more developers can discover JuggleIM.
+- 💬 Asking questions and sharing ideas in [GitHub Discussions](https://github.com/juggleim/im-server/discussions).
 - 🐛 Reporting a bug or proposing a feature in [GitHub Issues](https://github.com/juggleim/im-server/issues).
 - 🛠️ Improving code or documentation with a pull request.
 - 💬 Joining the [Telegram Chinese community](https://t.me/juggleim_zh) for integration help and discussion.

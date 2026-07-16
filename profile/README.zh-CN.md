@@ -25,7 +25,7 @@
     <a href="https://www.juggle.im/"><strong>官网</strong></a> ·
     <a href="https://www.juggle.im/docs/guide/intro/"><strong>开发文档</strong></a> ·
     <a href="https://www.juggle.im/docs/guide/deploy/quickdeploy/"><strong>快速部署</strong></a> ·
-    <a href="https://github.com/juggleim/im-server/issues"><strong>问题反馈</strong></a> ·
+    <a href="https://github.com/juggleim/im-server/discussions"><strong>开发者讨论</strong></a> ·
     <a href="https://t.me/juggleim_zh"><strong>开发者社区</strong></a>
   </p>
 </div>
@@ -105,6 +105,7 @@ JuggleIM 适用于**自托管聊天系统**、**App 内即时通讯**、社交�
 优秀的开源即时通讯基础设施需要大家共同建设。你可以：
 
 - ⭐ 为 [im-server](https://github.com/juggleim/im-server) 点亮 Star，让更多开发者发现 JuggleIM。
+- 💬 在 [GitHub Discussions](https://github.com/juggleim/im-server/discussions) 提问、交流想法或展示项目。
 - 🐛 通过 [GitHub Issues](https://github.com/juggleim/im-server/issues) 报告问题或提出新功能建议。
 - 🛠️ 提交 Pull Request，改进代码或文档。
 - 💬 加入 [Telegram 中文社区](https://t.me/juggleim_zh)，讨论集成问题和 IM 技术。
