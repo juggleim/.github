@@ -52,7 +52,9 @@ JuggleIM is a practical foundation for **self-hosted chat**, **in-app messaging*
   <img src="https://github.com/user-attachments/assets/0432e193-9ee0-45e1-9997-080f68c0be00" alt="JuggleChat cross-platform messaging interface" width="100%">
 </a>
 
-<p align="center"><em>JuggleChat is the open-source, cross-platform application built on JuggleIM. <a href="https://www.juggle.im/#/jugglechat">Explore the product →</a></em></p>
+<p align="center"><em>JuggleChat is JuggleIM's production-ready cross-platform messaging application, available as commercial source code for Android, iOS, Web and Desktop.
+
+Public GitHub repositories provide SDKs, infrastructure components and selected reference/demo projects. <a href="https://www.juggle.im/#/jugglechat">Explore the product →</a></em></p>
 
 ## Start with the right project
 
