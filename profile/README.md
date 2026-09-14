@@ -34,7 +34,9 @@
 
 ## Own your messaging stack
 
-JuggleIM is a **high-performance, scalable instant messaging platform** with an open-source Go server, multi-platform client SDKs, server APIs, WebHooks, admin tooling, and production-ready chat applications.
+JuggleIM is a **high-performance, scalable instant messaging platform** with an open-source Go server, multi-platform client SDKs, server APIs, WebHooks, admin tooling.
+
+For teams that need a complete messaging application, JuggleChat provides commercially licensed production source code for Android, iOS, Web, Desktop and the business backend.
 
 Choose a self-hosted private deployment for full control over data and infrastructure, or use the managed cloud to start quickly. The same platform supports everything from a two-person conversation to a 100,000-member group and large live chatrooms.
 
