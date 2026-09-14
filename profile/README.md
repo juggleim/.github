@@ -64,7 +64,6 @@ Public GitHub repositories provide SDKs, infrastructure components and selected 
 | :--- | :--- | :---: |
 | ⭐ **[im-server](https://github.com/juggleim/im-server)** | The open-source core: message delivery, storage, connections, groups, chatrooms, and server APIs | Go |
 | **[jugglechat-server](https://github.com/juggleim/jugglechat-server)** | A production-ready business server with accounts, friends, groups, auth, bots, and storage | Go |
-| **[JuggleChat clients](https://github.com/orgs/juggleim/repositories?q=jugglechat)** | Customizable Android, iOS, Web, and desktop chat applications | Multi-platform |
 | **[Client SDKs](https://github.com/orgs/juggleim/repositories?q=imsdk)** | Add messaging to Android, iOS, Web, React Native, Flutter, and HarmonyOS apps | Multi-platform |
 | **[Server SDKs](https://github.com/orgs/juggleim/repositories?q=imserver-sdk)** | Call JuggleIM server APIs from Go, Java, or Python services | Go / Java / Python |
 | **[Bot SDKs](https://github.com/orgs/juggleim/repositories?q=imbot-sdk)** | Connect bots, automations, and AI assistants | Go / Python / Node.js / Rust |
@@ -76,13 +75,12 @@ Public GitHub repositories provide SDKs, infrastructure components and selected 
 
 | Platform | SDK | Ready-to-customize app |
 | :--- | :--- | :--- |
-| Android | [imsdk-android](https://github.com/juggleim/imsdk-android) | [jugglechat-android](https://github.com/juggleim/jugglechat-android) |
-| iOS | [imsdk-ios](https://github.com/juggleim/imsdk-ios) | [jugglechat-ios](https://github.com/juggleim/jugglechat-ios) |
+| Android | [imsdk-android](https://github.com/juggleim/imsdk-android) | - |
+| iOS | [imsdk-ios](https://github.com/juggleim/imsdk-ios) | - |
 | Web | [imsdk-web](https://github.com/juggleim/imsdk-web) | [jugglechat-web](https://github.com/juggleim/jugglechat-web) |
 | React Native | [imsdk-rn](https://github.com/juggleim/imsdk-rn) | — |
 | Flutter | [imsdk-flutter](https://github.com/juggleim/imsdk-flutter) | — |
 | HarmonyOS | [imsdk-harmony](https://github.com/juggleim/imsdk-harmony) | — |
-| Desktop | — | [jugglechat-desktop](https://github.com/juggleim/jugglechat-desktop) |
 
 </details>
 
