@@ -92,8 +92,6 @@ Public GitHub repositories provide SDKs, infrastructure components and selected 
 | HarmonyOS | [imsdk-harmony](https://github.com/juggleim/imsdk-harmony) | — | — |
 | Desktop | — | — | Available | 
 
-</details>
-
 ### Which one should I use?
 
 **Use the JuggleIM SDK** if you already have an application and only need messaging capabilities.
@@ -101,6 +99,8 @@ Public GitHub repositories provide SDKs, infrastructure components and selected 
 **Use the open-source UI demos** if you want to evaluate JuggleIM, understand integration patterns, learn from sample UI/business logic, or use them as a reference for your own development.
 
 **Use commercial JuggleChat** if you need a complete, production-ready messaging product that can be deployed and customized directly.
+
+</details>
 
 ## Get running
 
