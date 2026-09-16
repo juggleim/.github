@@ -82,7 +82,7 @@ Public GitHub repositories provide SDKs, infrastructure components and selected 
 
 <br>
 
-| Platform | SDK | Ready-to-customize app | Open-source UI Demo |
+| Platform | SDK | Open-source UI Demo | Commercial JuggleChat  |
 | :--- | :--- | :--- | :--- |
 | Android | [imsdk-android](https://github.com/juggleim/imsdk-android) | [android-demo](https://github.com/juggleim/imsdk-android/tree/master/demo) | Available |
 | iOS | [imsdk-ios](https://github.com/juggleim/imsdk-ios) | [iOS-demo](https://github.com/juggleim/imsdk-ios/tree/master/QuickStart) | Available |
