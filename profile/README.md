@@ -72,8 +72,8 @@ Public GitHub repositories provide SDKs, infrastructure components and selected 
 | Project | Use it for | Stack |
 | :--- | :--- | :---: |
 | ⭐ **[im-server](https://github.com/juggleim/im-server)** | The open-source core: message delivery, storage, connections, groups, chatrooms, and server APIs | Go |
-| **[jugglechat-server](https://github.com/juggleim/jugglechat-server)** | A production-ready business server with accounts, friends, groups, auth, bots, and storage | Go |
-| **[Client SDKs](https://github.com/orgs/juggleim/repositories?q=imsdk)** | Add messaging to Android, iOS, Web, React Native, Flutter, and HarmonyOS apps | Multi-platform |
+| **[jugglechat-server](https://github.com/juggleim/jugglechat-server)** | A production-ready business server with accounts, friends, groups, auth, bots, and storage. Used in open source UI demos and commercial JuggleChat applications. | Go |
+| **[Client SDKs and UI demos](https://github.com/orgs/juggleim/repositories?q=imsdk)** | Add messaging to Android, iOS, Web, React Native, Flutter, and HarmonyOS apps | Multi-platform |
 | **[Server SDKs](https://github.com/orgs/juggleim/repositories?q=imserver-sdk)** | Call JuggleIM server APIs from Go, Java, or Python services | Go / Java / Python |
 | **[Bot SDKs](https://github.com/orgs/juggleim/repositories?q=imbot-sdk)** | Connect bots, automations, and AI assistants | Go / Python / Node.js / Rust |
 
