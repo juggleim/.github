@@ -87,10 +87,10 @@ Public GitHub repositories provide SDKs, infrastructure components and selected 
 | Android | [imsdk-android](https://github.com/juggleim/imsdk-android) | [android-demo](https://github.com/juggleim/imsdk-android/tree/master/demo) | Available |
 | iOS | [imsdk-ios](https://github.com/juggleim/imsdk-ios) | [iOS-demo](https://github.com/juggleim/imsdk-ios/tree/master/QuickStart) | Available |
 | Web | [imsdk-web](https://github.com/juggleim/imsdk-web) | [jugglechat-web](https://github.com/juggleim/jugglechat-web) | Available |
-| React Native | [imsdk-rn](https://github.com/juggleim/imsdk-rn) | — | - |
+| React Native | [imsdk-rn](https://github.com/juggleim/imsdk-rn) | — | — |
 | Flutter | [imsdk-flutter](https://github.com/juggleim/imsdk-flutter) | — | Available |
-| HarmonyOS | [imsdk-harmony](https://github.com/juggleim/imsdk-harmony) | — | -|
-| Desktop | - | - | Available | 
+| HarmonyOS | [imsdk-harmony](https://github.com/juggleim/imsdk-harmony) | — | — |
+| Desktop | — | — | Available | 
 
 </details>
 
