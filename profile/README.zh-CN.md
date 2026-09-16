@@ -63,7 +63,7 @@ JuggleIM 适用于**自托管聊天系统**、**App 内即时通讯**、社交�
   <img src="https://github.com/user-attachments/assets/0432e193-9ee0-45e1-9997-080f68c0be00" alt="JuggleChat 跨平台即时通讯界面" width="100%">
 </a>
 
-<p align="center"><em>JuggleChat 是基于 JuggleIM 构建的产品级跨平台即时通讯应用，提供 Android、iOS、Web 和 Desktop 等各端商业源码。
+<p align="center"><em>JuggleChat 是基于 JuggleIM 构建的产品级跨平台即时通讯应用，提供 Android、iOS、Flutter、Web 和 Desktop 等各端商业源码。
 
 GitHub 上公开的仓库主要包括 JuggleIM SDK、基础设施组件，以及部分用于学习、评估和集成参考的 Demo / 示例项目。<a href="https://www.juggle.im/#/jugglechat">查看产品 →</a></em></p>
 
