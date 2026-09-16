@@ -82,14 +82,14 @@ Public GitHub repositories provide SDKs, infrastructure components and selected 
 
 <br>
 
-| Platform | SDK | Ready-to-customize app |
-| :--- | :--- | :--- |
-| Android | [imsdk-android](https://github.com/juggleim/imsdk-android) | [android-demo](https://github.com/juggleim/imsdk-android/tree/master/demo) |
-| iOS | [imsdk-ios](https://github.com/juggleim/imsdk-ios) | [iOS-demo](https://github.com/juggleim/imsdk-ios/tree/master/QuickStart) |
-| Web | [imsdk-web](https://github.com/juggleim/imsdk-web) | [jugglechat-web](https://github.com/juggleim/jugglechat-web) |
-| React Native | [imsdk-rn](https://github.com/juggleim/imsdk-rn) | — |
-| Flutter | [imsdk-flutter](https://github.com/juggleim/imsdk-flutter) | — |
-| HarmonyOS | [imsdk-harmony](https://github.com/juggleim/imsdk-harmony) | — |
+| Platform | SDK | Ready-to-customize app | Open-source UI Demo |
+| :--- | :--- | :--- | :--- |
+| Android | [imsdk-android](https://github.com/juggleim/imsdk-android) | [android-demo](https://github.com/juggleim/imsdk-android/tree/master/demo) | Available |
+| iOS | [imsdk-ios](https://github.com/juggleim/imsdk-ios) | [iOS-demo](https://github.com/juggleim/imsdk-ios/tree/master/QuickStart) | Available |
+| Web | [imsdk-web](https://github.com/juggleim/imsdk-web) | [jugglechat-web](https://github.com/juggleim/jugglechat-web) | Available |
+| React Native | [imsdk-rn](https://github.com/juggleim/imsdk-rn) | — | - |
+| Flutter | [imsdk-flutter](https://github.com/juggleim/imsdk-flutter) | — | Available |
+| HarmonyOS | [imsdk-harmony](https://github.com/juggleim/imsdk-harmony) | — | -|
 
 </details>
 
