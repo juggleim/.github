@@ -34,7 +34,18 @@
 
 ## 掌控自己的即时通讯技术栈
 
-JuggleIM 是一套**高性能、可扩展的即时通讯平台**，包含开源 Go 服务端、多平台客户端 SDK、服务端 API、WebHook、管理工具以及生产可用的聊天应用源码。
+JuggleIM 是一套**高性能、可扩展的即时通讯平台**，包含开源 Go 服务端、多平台客户端 SDK、服务端 API、WebHook、管理工具以及相关开发者组件。
+
+为了方便开发者评估 JuggleIM、学习集成方式以及进行二次开发，我们同时提供开源的 JuggleChat Server，以及 Web、iOS 和 Android 等带 UI 的 Demo / Reference Project。
+
+这些开源项目主要用于技术评估、集成参考、学习和二次开发。
+
+JuggleChat 则是 JuggleIM 团队另外开发的产品级商业即时通讯产品。对于希望快速上线完整聊天产品、而不希望从零开发全部产品功能的团队，我们提供 JuggleChat 完整产品源码的商业授权。
+
+> **重要说明**
+>
+> GitHub 上公开的 JuggleChat Server 和各端 UI Demo 属于开发者参考项目，
+> 不等同于完整的商业版 JuggleChat 产品源码。
 
 你可以通过私有化部署完整掌控数据和基础设施，也可以使用公有云快速开始。同一套平台既能承载两个人的私聊，也能支持十万成员大群和大型直播聊天室。
 
@@ -61,9 +72,8 @@ GitHub 上公开的仓库主要包括 JuggleIM SDK、基础设施组件，以及
 | 项目 | 适用场景 | 技术栈 |
 | :--- | :--- | :---: |
 | ⭐ **[im-server](https://github.com/juggleim/im-server)** | 开源 IM 核心：消息投递、存储、长连接、群组、聊天室和服务端 API | Go |
-| **[jugglechat-server](https://github.com/juggleim/jugglechat-server)** | 生产可用的业务服务端：账号、好友、群组、鉴权、机器人和存储 | Go |
-| **[JuggleChat 客户端](https://github.com/orgs/juggleim/repositories?q=jugglechat)** | 可自由二开的 Android、iOS、Web 和桌面端聊天应用 | 多平台 |
-| **[客户端 SDK](https://github.com/orgs/juggleim/repositories?q=imsdk)** | 为 Android、iOS、Web、React Native、Flutter 和 HarmonyOS 应用集成 IM | 多平台 |
+| **[jugglechat-server](https://github.com/juggleim/jugglechat-server)** | 生产可用的业务服务端：账号、好友、群组、鉴权、机器人和存储。同时支持开源的 UI demo 和商业版的 JuggleChat 客户端应用 | Go |
+| **[客户端 SDK 和 UI demo](https://github.com/orgs/juggleim/repositories?q=imsdk)** | 为 Android、iOS、Web、React Native、Flutter 和 HarmonyOS 应用集成 IM | 多平台 |
 | **[服务端 SDK](https://github.com/orgs/juggleim/repositories?q=imserver-sdk)** | 在 Go、Java 或 Python 服务中调用 JuggleIM 服务端 API | Go / Java / Python |
 | **[机器人 SDK](https://github.com/orgs/juggleim/repositories?q=imbot-sdk)** | 接入机器人、自动化流程和 AI 助手 | Go / Python / Node.js / Rust |
 
@@ -72,15 +82,23 @@ GitHub 上公开的仓库主要包括 JuggleIM SDK、基础设施组件，以及
 
 <br>
 
-| 平台 | SDK | 可二开的应用 |
-| :--- | :--- | :--- |
-| Android | [imsdk-android](https://github.com/juggleim/imsdk-android) | [jugglechat-android](https://github.com/juggleim/jugglechat-android) |
-| iOS | [imsdk-ios](https://github.com/juggleim/imsdk-ios) | [jugglechat-ios](https://github.com/juggleim/jugglechat-ios) |
-| Web | [imsdk-web](https://github.com/juggleim/imsdk-web) | [jugglechat-web](https://github.com/juggleim/jugglechat-web) |
-| React Native | [imsdk-rn](https://github.com/juggleim/imsdk-rn) | — |
-| Flutter | [imsdk-flutter](https://github.com/juggleim/imsdk-flutter) | — |
-| HarmonyOS | [imsdk-harmony](https://github.com/juggleim/imsdk-harmony) | — |
-| 桌面端 | — | [jugglechat-desktop](https://github.com/juggleim/jugglechat-desktop) |
+| 平台 | SDK | 开源应用 | 商业版 JuggleChat |
+| :--- | :--- | :--- | :--- |
+| Android | [imsdk-android](https://github.com/juggleim/imsdk-android) |  [android-demo](https://github.com/juggleim/imsdk-android/tree/master/demo) | 可用 |
+| iOS | [imsdk-ios](https://github.com/juggleim/imsdk-ios) | [iOS-demo](https://github.com/juggleim/imsdk-ios/tree/master/QuickStart) | 可用 |
+| Web | [imsdk-web](https://github.com/juggleim/imsdk-web) | [jugglechat-web](https://github.com/juggleim/jugglechat-web) | 可用 |
+| React Native | [imsdk-rn](https://github.com/juggleim/imsdk-rn) | — | — |
+| Flutter | [imsdk-flutter](https://github.com/juggleim/imsdk-flutter) | — | 可用 |
+| HarmonyOS | [imsdk-harmony](https://github.com/juggleim/imsdk-harmony) | — | — |
+| 桌面端 | — | — | 可用 |
+
+### 应该选择哪个？
+
+**JuggleIM SDK**：适合已经有自己的 App，只需要集成即时通讯能力的团队。
+
+**开源 UI Demo / Reference**：适合评估 JuggleIM、学习集成方式、参考 UI 和业务代码，或者作为自己开发聊天产品的参考起点。
+
+**商业版 JuggleChat**：适合需要一套完整、产品级、可直接部署并进行深度定制的即时通讯产品源码的团队。
 
 </details>
 
