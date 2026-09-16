@@ -90,6 +90,7 @@ Public GitHub repositories provide SDKs, infrastructure components and selected 
 | React Native | [imsdk-rn](https://github.com/juggleim/imsdk-rn) | — | - |
 | Flutter | [imsdk-flutter](https://github.com/juggleim/imsdk-flutter) | — | Available |
 | HarmonyOS | [imsdk-harmony](https://github.com/juggleim/imsdk-harmony) | — | -|
+| Desktop | - | - | Available | 
 
 </details>
 
